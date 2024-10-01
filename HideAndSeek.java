@@ -8,5 +8,7 @@ public class HideAndSeek {
         System.out.print("Two...");
         System.out.println("One...");
         System.out.println("Ready or not, here I come!");
+        System.out.println("You can run but you can't hide!");
+
     }
 }
